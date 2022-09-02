@@ -1,6 +1,3 @@
-from re import sub
-
-
 entrada = input()
 entrada = entrada.split()
 entrada = [int(_) for _ in entrada]
